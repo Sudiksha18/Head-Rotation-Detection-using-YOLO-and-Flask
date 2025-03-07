@@ -14,7 +14,8 @@ Setup
 Clone the repository.
 
 Install dependencies: pip install flask opencv-python.
-
+Yolov3 weights:https://pjreddie.com/media/files/yolov3.weights
+Yolov3 configuration:https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
 Run the app: python app.py.
 
 Open http://localhost:5000 in your browser.
